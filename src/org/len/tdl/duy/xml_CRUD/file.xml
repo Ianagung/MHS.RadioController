@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TDL_Len>
+    <Port id="1">
+        <name>/dev/ttyUSB0</name>
+        <baudrate>4800</baudrate>
+    </Port>
+    <Port id="2">
+        <name>/dev/ttyUSB1</name>
+        <baudrate>4800</baudrate>
+    </Port>
+    <Settings id="1">
+        <key>TDLupdate1</key>
+        <datarate>5</datarate>
+        <own_NPU>300</own_NPU>
+    </Settings>
+    <Data_rate>
+		
+    </Data_rate>
+    <PU id="1">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="2">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="3">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="4">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="5">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="6">
+        <jml_paket>5</jml_paket>
+        <delay>200</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="7">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="8">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="9">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="10">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="11">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="12">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="13">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="14">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="15">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="16">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="17">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="18">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="19">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="20">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="21">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="22">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="23">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="24">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="25">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="26">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="27">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="28">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="29">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+    <PU id="30">
+        <jml_paket>-</jml_paket>
+        <delay>-</delay>
+        <noname>-</noname>
+    </PU>
+</TDL_Len>

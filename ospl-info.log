@@ -1,0 +1,2836 @@
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 05:29:47 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4156>
+Thread      :  7b901b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/361662162
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 05:30:20 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4209>
+Thread      :  7b7e4b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/173026406
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 05:59:31 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4436>
+Thread      :  7b956b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/673941391
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 06:01:52 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4512>
+Thread      :  7b8dab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/708976407
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 06:08:47 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <5101>
+Thread      :  7b93cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/120995779
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 07:01:59 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <5191>
+Thread      :  7b86cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/688320705
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 07:04:36 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <5237>
+Thread      :  7b927b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/487943059
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 07:20:14 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      :  7b98db40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/99995457
+========================================================================================
+Report      : API_INFO
+Date        : Sun Dec 11 07:20:15 2011
+Description : DomainParticipantFactory::create_participant creation of kernel entity failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      : main thread 7b98db40
+Internals   : V5.3.0p3/DCPS API/gapi_domainParticipant.c/499/3/118680570
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 07:21:01 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2485>
+Thread      :  7b8c8b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/995113373
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 07:21:55 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2590>
+Thread      :  7b9bfb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/549085845
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:17:18 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2511>
+Thread      :  7b7dab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/859629449
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:17:18 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2511>
+Thread      : main thread 7b7dab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/888663603
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:17:18 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2511>
+Thread      : main thread 7b7dab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/888774735
+========================================================================================
+Report      : API_INFO
+Date        : Sun Dec 11 22:17:18 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2511>
+Thread      : main thread 7b7dab40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/889198453
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:18:02 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2612>
+Thread      :  7b7dab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/264968874
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:23:33 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2659>
+Thread      :  7b947b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/376228184
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:25:28 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2710>
+Thread      :  7b944b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/214235065
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:30:57 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2797>
+Thread      :  7b9aab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/444302245
+========================================================================================
+Report      : WARNING
+Date        : Sun Dec 11 22:42:35 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3018>
+Thread      :  7b9b5b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/598036419
+========================================================================================
+Report      : WARNING
+Date        : Mon Dec 12 00:51:57 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3146>
+Thread      :  7b94bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/992228993
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:28:25 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      :  7b7d2b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/686054770
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:28:26 2011
+Description : DomainParticipantFactory::create_participant creation of kernel entity failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      : main thread 7b7d2b40
+Internals   : V5.3.0p3/DCPS API/gapi_domainParticipant.c/499/3/698923432
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:29:04 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3416>
+Thread      :  7b829b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/294742605
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:29:04 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3416>
+Thread      : main thread 7b829b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/319729446
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:29:04 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3416>
+Thread      : main thread 7b829b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/319830547
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:29:04 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3416>
+Thread      : main thread 7b829b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/319986028
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:33:13 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3469>
+Thread      :  7b942b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/90646131
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:33:13 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3469>
+Thread      : main thread 7b942b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/115708108
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:33:13 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3469>
+Thread      : main thread 7b942b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/115799175
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:33:13 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3469>
+Thread      : main thread 7b942b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/115939122
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:44:09 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3569>
+Thread      :  7b861b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/316702736
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:44:09 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3569>
+Thread      : main thread 7b861b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/341430042
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:44:09 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3569>
+Thread      : main thread 7b861b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/341528898
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:44:09 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3569>
+Thread      : main thread 7b861b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/341682795
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:45:13 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3701>
+Thread      :  7b863b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/382067019
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:45:13 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3701>
+Thread      : main thread 7b863b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/406360658
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:45:13 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3701>
+Thread      : main thread 7b863b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/406461887
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:45:13 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3701>
+Thread      : main thread 7b863b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/406617120
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:46:17 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3751>
+Thread      :  7b763b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/82841948
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:46:17 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3751>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/107266300
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:46:17 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3751>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/107363952
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:46:17 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3751>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/107514139
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:49:03 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3851>
+Thread      :  7b93fb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/552775967
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:49:03 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3851>
+Thread      : main thread 7b93fb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/577745442
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:49:03 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3851>
+Thread      : main thread 7b93fb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/577846698
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:49:03 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3851>
+Thread      : main thread 7b93fb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/578002685
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:51:54 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3966>
+Thread      :  7b8bfb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/700394650
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:51:54 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3966>
+Thread      : main thread 7b8bfb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/725081828
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:51:54 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3966>
+Thread      : main thread 7b8bfb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/725185285
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:51:54 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3966>
+Thread      : main thread 7b8bfb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/725338645
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:02 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4022>
+Thread      :  7b728b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/279959330
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:02 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4022>
+Thread      : main thread 7b728b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/311115259
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:02 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4022>
+Thread      : main thread 7b728b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/311239621
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:55:02 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4022>
+Thread      : main thread 7b728b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/311413111
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:34 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4074>
+Thread      :  7b763b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/318797421
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:38 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4074>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/224582609
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:55:38 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4074>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/224691471
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:55:38 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4074>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/224868492
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:57:10 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4133>
+Thread      :  7b70cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/684696593
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:58:19 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4187>
+Thread      :  7b644b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/348843559
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:58:32 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4187>
+Thread      : main thread 7b644b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/586971477
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:58:32 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4187>
+Thread      : main thread 7b644b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/587098748
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:58:32 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4187>
+Thread      : main thread 7b644b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/587287100
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:59:19 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4243>
+Thread      :  7b6a0b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/291214146
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:59:25 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4243>
+Thread      : main thread 7b6a0b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/992509507
+========================================================================================
+Report      : WARNING
+Date        : Thu Dec 15 23:59:25 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4243>
+Thread      : main thread 7b6a0b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/992623506
+========================================================================================
+Report      : API_INFO
+Date        : Thu Dec 15 23:59:25 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4243>
+Thread      : main thread 7b6a0b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/992807790
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:03:43 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4377>
+Thread      :  7b768b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/351954360
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:03:46 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4377>
+Thread      : main thread 7b768b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/240128530
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:03:46 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4377>
+Thread      : main thread 7b768b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/240266370
+========================================================================================
+Report      : API_INFO
+Date        : Fri Dec 16 00:03:46 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4377>
+Thread      : main thread 7b768b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/240475750
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:04:44 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4430>
+Thread      :  7b766b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/854277306
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:04:47 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4430>
+Thread      : main thread 7b766b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/76939622
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:04:47 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4430>
+Thread      : main thread 7b766b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/77051611
+========================================================================================
+Report      : API_INFO
+Date        : Fri Dec 16 00:04:47 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4430>
+Thread      : main thread 7b766b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/77225521
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:05:39 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4487>
+Thread      :  7b87bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/367455432
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:05:41 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4487>
+Thread      : main thread 7b87bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/977561460
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:05:41 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4487>
+Thread      : main thread 7b87bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/977682680
+========================================================================================
+Report      : API_INFO
+Date        : Fri Dec 16 00:05:41 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4487>
+Thread      : main thread 7b87bb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/977841188
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:07:16 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4597>
+Thread      :  7b70cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/893472091
+========================================================================================
+Report      : WARNING
+Date        : Fri Dec 16 00:08:03 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4693>
+Thread      :  7b69eb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/480241360
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:08:16 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2747>
+Thread      :  7b7edb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/303628265
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:08:16 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2747>
+Thread      : main thread 7b7edb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/334783249
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:08:16 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2747>
+Thread      : main thread 7b7edb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/334900818
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 01:08:16 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2747>
+Thread      : main thread 7b7edb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/335063076
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:10:05 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2843>
+Thread      :  7b896b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/587794771
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:32:59 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2751>
+Thread      :  7b830b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/273941798
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:32:59 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2751>
+Thread      : main thread 7b830b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/301186140
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:32:59 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2751>
+Thread      : main thread 7b830b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/301294768
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 01:32:59 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2751>
+Thread      : main thread 7b830b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/301590925
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:34:34 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2847>
+Thread      :  7b9a3b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/30912512
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:34:34 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2847>
+Thread      : main thread 7b9a3b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/59425083
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 01:34:34 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2847>
+Thread      : main thread 7b9a3b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/59552585
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 01:34:34 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2847>
+Thread      : main thread 7b9a3b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/59842383
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:05:39 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2487>
+Thread      :  7b8b9b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/790673103
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:08 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3009>
+Thread      :  7b95fb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/847572300
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:08 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3009>
+Thread      : main thread 7b95fb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/877410594
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:08 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3009>
+Thread      : main thread 7b95fb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/877535726
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:11:08 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3009>
+Thread      : main thread 7b95fb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/877744352
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:54 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3057>
+Thread      :  7b9aab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/459939639
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:54 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3057>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/491436394
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:11:54 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3057>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/491585555
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:11:54 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3057>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/491801116
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:12:15 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3156>
+Thread      :  7b966b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/820776463
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:12:15 2011
+Description : Create Topic <tisNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3156>
+Thread      : main thread 7b966b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/850310128
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:12:15 2011
+Description : Create Topic "tisNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3156>
+Thread      : main thread 7b966b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/850464158
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:12:15 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3156>
+Thread      : main thread 7b966b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/850667201
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:17:16 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3252>
+Thread      :  7b996b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/933550685
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:17:16 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3252>
+Thread      : main thread 7b996b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/965608792
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:17:16 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3252>
+Thread      : main thread 7b996b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/965743951
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:17:16 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3252>
+Thread      : main thread 7b996b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/965960486
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:18:35 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3350>
+Thread      :  7b93cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/869947783
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:18:35 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3350>
+Thread      : main thread 7b93cb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/898465423
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:18:35 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3350>
+Thread      : main thread 7b93cb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/898563593
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:18:35 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3350>
+Thread      : main thread 7b93cb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/898714570
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:21:49 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3529>
+Thread      :  7b8e4b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/113088146
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:21:49 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3529>
+Thread      : main thread 7b8e4b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/145195378
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:21:49 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3529>
+Thread      : main thread 7b8e4b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/145320717
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:21:49 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3529>
+Thread      : main thread 7b8e4b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/145524574
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:22:10 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3573>
+Thread      :  7b801b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/222602964
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:22:18 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3573>
+Thread      : main thread 7b801b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/472243590
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:22:18 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3573>
+Thread      : main thread 7b801b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/472340386
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:22:18 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3573>
+Thread      : main thread 7b801b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/472501806
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:23:33 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3682>
+Thread      :  7b928b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/238068264
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:25:11 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3734>
+Thread      :  7b8f7b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/993999654
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:29:52 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3935>
+Thread      :  7b9cdb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/345522272
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:29:52 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3935>
+Thread      : main thread 7b9cdb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/377652692
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:29:52 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3935>
+Thread      : main thread 7b9cdb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/377765426
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:29:52 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3935>
+Thread      : main thread 7b9cdb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/377953552
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:30:11 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4030>
+Thread      :  7b97ab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/782921243
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:30:32 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4075>
+Thread      :  7b9aab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/135903755
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:30:48 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4122>
+Thread      :  7b901b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/886792122
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:19 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4477>
+Thread      :  7b94db40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/800866419
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:19 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4477>
+Thread      : main thread 7b94db40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/834999034
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:19 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4477>
+Thread      : main thread 7b94db40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/835126558
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:37:19 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4477>
+Thread      : main thread 7b94db40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/835365110
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:48 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4574>
+Thread      :  7b9a0b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/863898934
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:48 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4574>
+Thread      : main thread 7b9a0b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/893115552
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:37:48 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4574>
+Thread      : main thread 7b9a0b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/893204096
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:37:48 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4574>
+Thread      : main thread 7b9a0b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/893339902
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:10 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4674>
+Thread      :  7b901b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/855114035
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:10 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4674>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/888114746
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:10 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4674>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/888275689
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:38:10 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4674>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/888473722
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:38 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4778>
+Thread      :  7b9aab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/736306943
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:38 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4778>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/765765633
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:38 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4778>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/765859742
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:38:38 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4778>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/766010332
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:56 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4876>
+Thread      :  7b93bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/765004223
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:56 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4876>
+Thread      : main thread 7b93bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/794410639
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:38:56 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4876>
+Thread      : main thread 7b93bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/794520746
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:38:56 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4876>
+Thread      : main thread 7b93bb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/794663825
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:37 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4980>
+Thread      :  7b9b5b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/466984284
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:37 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4980>
+Thread      : main thread 7b9b5b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/499400477
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:37 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4980>
+Thread      : main thread 7b9b5b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/499529658
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:39:37 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4980>
+Thread      : main thread 7b9b5b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/499732464
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:59 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5074>
+Thread      :  7b97bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/369242513
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:59 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5074>
+Thread      : main thread 7b97bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/402777991
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:39:59 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5074>
+Thread      : main thread 7b97bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/402901782
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:39:59 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5074>
+Thread      : main thread 7b97bb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/403106545
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:40:35 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5176>
+Thread      :  7b916b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/169404422
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:41:24 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5224>
+Thread      :  7b954b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/229631258
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:42:09 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5353>
+Thread      :  7b931b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/869069530
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:37 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5692>
+Thread      :  7b92db40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/107289040
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:37 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5692>
+Thread      : main thread 7b92db40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/139822446
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:37 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5692>
+Thread      : main thread 7b92db40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/139951205
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:48:37 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5692>
+Thread      : main thread 7b92db40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/140179946
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:57 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5792>
+Thread      :  7b916b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/381492108
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:57 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5792>
+Thread      : main thread 7b916b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/415543865
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:48:57 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5792>
+Thread      : main thread 7b916b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/415667802
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:48:57 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5792>
+Thread      : main thread 7b916b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/415865995
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:11 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5840>
+Thread      :  7b957b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/478290373
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:11 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5840>
+Thread      : main thread 7b957b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/511500016
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:11 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5840>
+Thread      : main thread 7b957b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/511628280
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:49:11 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5840>
+Thread      : main thread 7b957b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/511827635
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:43 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5939>
+Thread      :  7b82ab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/372856379
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:43 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5939>
+Thread      : main thread 7b82ab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/405957589
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:49:43 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5939>
+Thread      : main thread 7b82ab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/406085623
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:49:43 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5939>
+Thread      : main thread 7b82ab40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/406276643
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:09 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6040>
+Thread      :  7b9d2b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/990887266
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:10 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6040>
+Thread      : main thread 7b9d2b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/19420840
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:10 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6040>
+Thread      : main thread 7b9d2b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/19517717
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:50:10 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6040>
+Thread      : main thread 7b9d2b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/19674375
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:43 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6139>
+Thread      :  7b834b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/854148671
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:43 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6139>
+Thread      : main thread 7b834b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/887428403
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:43 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6139>
+Thread      : main thread 7b834b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/887553669
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 04:50:43 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6139>
+Thread      : main thread 7b834b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/887755837
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 04:50:58 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6236>
+Thread      :  7b80cb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/238741984
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:01:45 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6529>
+Thread      :  7b901b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/99379007
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:01:45 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6529>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/132293551
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:01:45 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6529>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/132384087
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 05:01:45 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6529>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/132515904
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:02:12 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6628>
+Thread      :  7b962b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/959008237
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:02:12 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6628>
+Thread      : main thread 7b962b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/988513227
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:02:12 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6628>
+Thread      : main thread 7b962b40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/988611211
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 05:02:12 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6628>
+Thread      : main thread 7b962b40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/988742744
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:06 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6730>
+Thread      :  7b92bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/93625506
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:06 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6730>
+Thread      : main thread 7b92bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/122731523
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:06 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6730>
+Thread      : main thread 7b92bb40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/122811518
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 05:03:06 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6730>
+Thread      : main thread 7b92bb40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/122927770
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:48 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6773>
+Thread      :  7b9aab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/83336361
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:48 2011
+Description : Create Topic <kmfNotification> failed: Unmatching QoS Policy: 'Durability'.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6773>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/376/0/116214539
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:03:48 2011
+Description : Create Topic "kmfNotification" failed: Key differs exiting definition
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6773>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/v_topicNew/v_topic.c/462/21/116317162
+========================================================================================
+Report      : API_INFO
+Date        : Sat Dec 17 05:03:48 2011
+Description : DomainParticipant::create_topic : Unspecified error
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6773>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/DCPS API/gapi_topic.c/126/0/116514471
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:04:06 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6868>
+Thread      :  7b93fb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/396167407
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:05:14 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6912>
+Thread      :  7b93bb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/499274733
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:05:32 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6965>
+Thread      :  7b873b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/647990605
+========================================================================================
+Report      : WARNING
+Date        : Sat Dec 17 05:06:25 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <7025>
+Thread      :  7b9a0b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/686261601
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 10 11:07:23 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3706>
+Thread      :  7b442b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/963386569
+========================================================================================
+Report      : WARNING
+Date        : Sat Apr 10 13:11:14 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4322>
+Thread      :  7b69cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/893500536
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 10:14:41 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3655>
+Thread      :  7b61cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/267981702
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 11:06:13 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4217>
+Thread      :  7b025b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/997775125
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 11:08:50 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4273>
+Thread      :  7b21fb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/603258882
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 11:32:07 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5588>
+Thread      :  7b122b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/559693414
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 14:23:37 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6684>
+Thread      :  7b5a0b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/698217408
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 17:00:50 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <8150>
+Thread      :  7b1e5b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/683477387
+========================================================================================
+Report      : WARNING
+Date        : Wed May 19 17:56:23 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <8320>
+Thread      :  7ac99b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/359017019
+========================================================================================
+Report      : WARNING
+Date        : Thu May 20 09:29:34 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      :  7b892b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/711422274
+========================================================================================
+Report      : WARNING
+Date        : Thu May 20 14:38:49 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4091>
+Thread      :  7b1aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/835310923
+========================================================================================
+Report      : WARNING
+Date        : Thu May 20 15:48:08 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4241>
+Thread      :  7b238b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/354545686
+========================================================================================
+Report      : WARNING
+Date        : Thu May 20 16:31:06 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4317>
+Thread      :  7b3beb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/574163021
+========================================================================================
+Report      : WARNING
+Date        : Thu May 20 16:41:36 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4371>
+Thread      :  7b525b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/919526057
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 09:31:23 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3500>
+Thread      :  7b14cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/418306903
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 11:03:21 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4643>
+Thread      :  7b61db70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/4429258
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 13:18:37 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      :  7b76db70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/587006260
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:03:01 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5168>
+Thread      :  7b141b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/793115144
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:32:41 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5346>
+Thread      :  7b2bbb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/648651160
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:38:19 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5511>
+Thread      :  7b4d2b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/467925107
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:42:32 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5661>
+Thread      :  7b282b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/137781904
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:49:25 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5724>
+Thread      :  7b06cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/711100177
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:54:12 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5876>
+Thread      :  7af93b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/269113358
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 16:54:51 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5930>
+Thread      :  7b45fb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/524097692
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:00:40 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5994>
+Thread      :  7b01fb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/683406223
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:09:08 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6151>
+Thread      :  7b2a5b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/654528168
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:15:47 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6308>
+Thread      :  7b155b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/454435622
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:24:12 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6456>
+Thread      :  7b27cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/231397951
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:31:47 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6519>
+Thread      :  7b525b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/885844991
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 17:43:15 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6588>
+Thread      :  7aed2b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/608224563
+========================================================================================
+Report      : WARNING
+Date        : Fri May 21 18:02:57 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6711>
+Thread      :  7b41ab70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/713522877
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 08:32:33 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      :  7b319b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/899407341
+========================================================================================
+Report      : API_INFO
+Date        : Sat May 22 08:32:35 2010
+Description : DomainParticipantFactory::create_participant creation of kernel entity failed
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      : main thread 7b319b70
+Internals   : V5.3.0p3/DCPS API/gapi_domainParticipant.c/499/3/2999817
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 08:44:32 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3623>
+Thread      :  7b1f2b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/464496930
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 08:45:43 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3798>
+Thread      :  7b55ab70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/690052766
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 09:46:28 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4109>
+Thread      :  7b605b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/731990479
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 09:55:59 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4175>
+Thread      :  7b7ffb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/239429464
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 09:56:24 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4215>
+Thread      :  7b544b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/472540759
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 10:05:54 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4279>
+Thread      :  7b331b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/39887392
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 10:10:56 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4337>
+Thread      :  7b2cab70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/344612045
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 10:27:55 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4404>
+Thread      :  7b0bfb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/409914301
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 10:46:59 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4480>
+Thread      :  7b29fb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/252477030
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 11:04:48 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4545>
+Thread      :  7b1aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/54192971
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 11:05:04 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4583>
+Thread      :  7b319b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/832255816
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 13:22:03 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3591>
+Thread      :  7b3b5b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/196547015
+========================================================================================
+Report      : WARNING
+Date        : Sat May 22 13:41:41 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3938>
+Thread      :  7b6aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/783274713
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 08:57:15 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      :  7afa4b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/306847103
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 09:43:10 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3965>
+Thread      :  7b0aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/145313887
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 10:25:58 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4487>
+Thread      :  7b2aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/157254742
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 11:22:52 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4909>
+Thread      :  7b36cb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/209137419
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 13:15:05 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5963>
+Thread      :  7b66bb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/953104422
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 13:16:51 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6078>
+Thread      :  7b0b8b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/694330376
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 13:19:31 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6240>
+Thread      :  7b24ab70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/549404492
+========================================================================================
+Report      : WARNING
+Date        : Sun May 23 13:21:21 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6312>
+Thread      :  7b0bab70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/953039549
+========================================================================================
+Report      : WARNING
+Date        : Sat May 29 15:12:27 2010
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3384>
+Thread      :  7b456b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/544421755
+========================================================================================
+Report      : WARNING
+Date        : Tue Jul 14 16:06:26 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <15071>
+Thread      :  8ff8fb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/922312092
+========================================================================================
+Report      : WARNING
+Date        : Thu Jul 14 16:07:08 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <15290>
+Thread      :  90076b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/266028927
+========================================================================================
+Report      : WARNING
+Date        : Thu Jul 14 16:08:24 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <15630>
+Thread      :  8fdaeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/36177141
+========================================================================================
+Report      : WARNING
+Date        : Thu Jul 14 16:18:19 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <17215>
+Thread      :  900d2b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/52962285
+========================================================================================
+Report      : WARNING
+Date        : Thu Jul 14 16:23:01 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <18468>
+Thread      :  900aeb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/11613222
+========================================================================================
+Report      : WARNING
+Date        : Wed Jul 15 11:41:13 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <8517>
+Thread      :  8fec0b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/173410925
+========================================================================================
+Report      : WARNING
+Date        : Fri Jul 15 11:50:04 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11119>
+Thread      :  8fe04b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/908383183
+========================================================================================
+Report      : WARNING
+Date        : Fri Jul 15 11:53:34 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11226>
+Thread      :  8ff54b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/33597514
+========================================================================================
+Report      : WARNING
+Date        : Fri Jul 15 12:22:28 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11646>
+Thread      :  8feffb70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/608011264
+========================================================================================
+Report      : WARNING
+Date        : Fri Jul 15 13:07:56 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <12525>
+Thread      :  90054b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/449651770
+========================================================================================
+Report      : WARNING
+Date        : Sat Jul 23 08:21:19 2011
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      :  8fef9b70
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/156360784
+========================================================================================
+Report      : API_INFO
+Date        : Sat Jul 23 08:21:20 2011
+Description : DomainParticipantFactory::create_participant creation of kernel entity failed
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      : main thread 8fef9b70
+Internals   : V5.3.0p3/DCPS API/gapi_domainParticipant.c/499/3/250599668
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct  1 17:14:12 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <8964>
+Thread      :  692aeb40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/794752572
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct  1 17:14:30 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <9045>
+Thread      :  69467b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/711829843
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct  1 17:16:50 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <9374>
+Thread      :  6939ab40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/385357176
+========================================================================================
+Report      : WARNING
+Date        : Thu Oct  1 17:37:21 2015
+Description : Did not install signal handlers to cleanup resources.
+              To ensure cleanup for Java applications, the path to the 'jsig' library
+              (libjsig.so) must be set in the LD_PRELOAD environment variable.
+              This library is part of your Java distribution.
+              To ensure proper cleanup set this before starting your application.
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      :  69471b40
+Internals   : V5.3.0p3/OS abstraction layer/os_process.c/85/0/545815644
+========================================================================================
+Report      : API_INFO
+Date        : Thu Oct  1 17:37:22 2015
+Description : DomainParticipantFactory::create_participant creation of kernel entity failed
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      : main thread 69471b40
+Internals   : V5.3.0p3/DCPS API/gapi_domainParticipant.c/499/3/561439700

@@ -1,0 +1,1592 @@
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 06:04:57 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4512>
+Thread      : 7b06db40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/443690774
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 06:04:57 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <4512>
+Thread      : 7b06db40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/443800600
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 06:11:34 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <5101>
+Thread      : 7b0cbb40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/143627703
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 06:11:34 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <5101>
+Thread      : 7b0cbb40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/143748641
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 07:20:15 2011
+Description : os_sharedMemoryAttach failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      : main thread 7b98db40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/721/0/115726220
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 07:20:15 2011
+Description : c_open failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      : main thread 7b98db40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/735/0/118363685
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 07:20:15 2011
+Description : Failed to open: TisKmf
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      : main thread 7b98db40
+Internals   : V5.3.0p3/u_userKernelOpen/u_user.c/501/0/118492195
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 07:20:15 2011
+Description : Failure to open the kernel
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/bin/java <2335>
+Thread      : main thread 7b98db40
+Internals   : V5.3.0p3/u_participantNew/u_participant.c/162/0/118584280
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:17:18 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2511>
+Thread      : main thread 7b7dab40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/888854797
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:20:19 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2612>
+Thread      : 7b074b40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/135140699
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:20:19 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2612>
+Thread      : 7b074b40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/135246082
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:20:45 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2612>
+Thread      : 7b074b40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/594991859
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:20:45 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2612>
+Thread      : 7b074b40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/595236149
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:35:58 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2797>
+Thread      : 7b135b40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/238952995
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:35:58 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2797>
+Thread      : 7b135b40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/239264558
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:39:19 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2797>
+Thread      : 7b135b40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/545785747
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:39:19 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2797>
+Thread      : 7b135b40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/545934866
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:43:36 2011
+Description : Object array bounds violation.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3018>
+Thread      : 7b0ffb40
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/774444318
+========================================================================================
+Report      : ERROR
+Date        : Sun Dec 11 22:43:36 2011
+Description : Unable to copy data, because it is invalid.
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3018>
+Thread      : 7b0ffb40
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/774625362
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:28:26 2011
+Description : os_sharedMemoryAttach failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      : main thread 7b7d2b40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/721/0/697752618
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:28:26 2011
+Description : c_open failed
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      : main thread 7b7d2b40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/735/0/698151081
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:28:26 2011
+Description : Failed to open: TisKmf
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      : main thread 7b7d2b40
+Internals   : V5.3.0p3/u_userKernelOpen/u_user.c/501/0/698427924
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:28:26 2011
+Description : Failure to open the kernel
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3322>
+Thread      : main thread 7b7d2b40
+Internals   : V5.3.0p3/u_participantNew/u_participant.c/162/0/698656958
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:29:04 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3416>
+Thread      : main thread 7b829b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/319911542
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:33:13 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3469>
+Thread      : main thread 7b942b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/115872413
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:44:09 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3569>
+Thread      : main thread 7b861b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/341609242
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:45:13 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3701>
+Thread      : main thread 7b863b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/406542091
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:46:17 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3751>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/107441393
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:49:03 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3851>
+Thread      : main thread 7b93fb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/577926733
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:51:54 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3966>
+Thread      : main thread 7b8bfb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/725265010
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:55:02 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4022>
+Thread      : main thread 7b728b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/311331466
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:55:38 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4074>
+Thread      : main thread 7b763b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/224784899
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:58:32 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4187>
+Thread      : main thread 7b644b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/587195709
+========================================================================================
+Report      : ERROR
+Date        : Thu Dec 15 23:59:25 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4243>
+Thread      : main thread 7b6a0b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/992713159
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 00:03:46 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4377>
+Thread      : main thread 7b768b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/240377925
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 00:04:47 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4430>
+Thread      : main thread 7b766b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/77144264
+========================================================================================
+Report      : ERROR
+Date        : Fri Dec 16 00:05:41 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4487>
+Thread      : main thread 7b87bb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/977766702
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 01:08:16 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2747>
+Thread      : main thread 7b7edb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/334984124
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 01:32:59 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2751>
+Thread      : main thread 7b830b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/301375159
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 01:34:34 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <2847>
+Thread      : main thread 7b9a3b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/59697469
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:11:08 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3009>
+Thread      : main thread 7b95fb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/877645686
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:11:54 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3057>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/491698868
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:12:15 2011
+Description : Create kernel entity failed. For Topic: <tisNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3156>
+Thread      : main thread 7b966b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/850571722
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:17:16 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3252>
+Thread      : main thread 7b996b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/965867026
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:18:35 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3350>
+Thread      : main thread 7b93cb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/898649870
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:21:49 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3529>
+Thread      : main thread 7b8e4b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/145429326
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:22:18 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3573>
+Thread      : main thread 7b801b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/472428491
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:29:52 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <3935>
+Thread      : main thread 7b9cdb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/377865103
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:37:19 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4477>
+Thread      : main thread 7b94db40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/835233678
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:37:48 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4574>
+Thread      : main thread 7b9a0b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/893283858
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:38:10 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4674>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/888385421
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:38:38 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4778>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/765945478
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:38:56 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4876>
+Thread      : main thread 7b93bb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/794601418
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:39:37 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <4980>
+Thread      : main thread 7b9b5b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/499642938
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:39:59 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5074>
+Thread      : main thread 7b97bb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/403009990
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:48:37 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5692>
+Thread      : main thread 7b92db40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/140066730
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:48:57 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5792>
+Thread      : main thread 7b916b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/415778089
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:49:11 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5840>
+Thread      : main thread 7b957b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/511738182
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:49:43 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <5939>
+Thread      : main thread 7b82ab40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/406191977
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:50:10 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6040>
+Thread      : main thread 7b9d2b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/19608921
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 04:50:43 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6139>
+Thread      : main thread 7b834b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/887666862
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 05:01:45 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6529>
+Thread      : main thread 7b901b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/132453134
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 05:02:12 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6628>
+Thread      : main thread 7b962b40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/988681521
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 05:03:06 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6730>
+Thread      : main thread 7b92bb40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/122872551
+========================================================================================
+Report      : ERROR
+Date        : Sat Dec 17 05:03:48 2011
+Description : Create kernel entity failed. For Topic: <kmfNotification>
+Node        : mpo
+Process     : /opt/java/jdk1.6.0_22/jre/bin/java <6773>
+Thread      : main thread 7b9aab40
+Internals   : V5.3.0p3/u_topicNew/u_topic.c/106/0/116417154
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 10:26:48 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3655>
+Thread      : 7a980b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/406410397
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 10:26:48 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3655>
+Thread      : 7a980b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/406811940
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:07:55 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4217>
+Thread      : 7a35cb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/505833371
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:07:55 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4217>
+Thread      : 7a35cb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/506119126
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:09:04 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4273>
+Thread      : 7a6b3b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/390343040
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:09:04 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4273>
+Thread      : 7a6b3b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/390910232
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:33:20 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5588>
+Thread      : 7a41bb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/672428257
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:33:20 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5588>
+Thread      : 7a41bb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/672983756
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:35:23 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5588>
+Thread      : 7a41bb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/987458684
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 11:35:23 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5588>
+Thread      : 7a41bb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/987817962
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 14:24:04 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6684>
+Thread      : 7a945b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/614417165
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 14:24:04 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6684>
+Thread      : 7a945b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/614969566
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 14:38:32 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6684>
+Thread      : 7a945b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/52520641
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 14:38:32 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6684>
+Thread      : 7a945b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/52727762
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 17:01:05 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <8150>
+Thread      : 7a512b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/696209399
+========================================================================================
+Report      : ERROR
+Date        : Wed May 19 17:01:05 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <8150>
+Thread      : 7a512b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/710164741
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 09:35:06 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/740923850
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 09:35:06 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/763104083
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 11:18:41 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/772526666
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 11:18:41 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/772741494
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 12:59:24 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/43103050
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 12:59:24 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/43337538
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 13:42:33 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/167287199
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 13:42:33 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3473>
+Thread      : 7ab30b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/167438764
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 14:39:08 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4091>
+Thread      : 7a581b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/689413297
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 14:39:08 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4091>
+Thread      : 7a581b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/689607246
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 15:49:32 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4241>
+Thread      : 7a5d4b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/309247717
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 15:49:32 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4241>
+Thread      : 7a5d4b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/309524065
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:31:30 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4317>
+Thread      : 7a733b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/246989722
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:31:30 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4317>
+Thread      : 7a733b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/247370916
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:34:11 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4317>
+Thread      : 7a733b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/346314999
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:34:11 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4317>
+Thread      : 7a733b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/346827497
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:41:54 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4371>
+Thread      : 7a860b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/402265167
+========================================================================================
+Report      : ERROR
+Date        : Thu May 20 16:41:54 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4371>
+Thread      : 7a860b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/402765112
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 09:32:59 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3500>
+Thread      : 7a4cfb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/973640585
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 09:32:59 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3500>
+Thread      : 7a4cfb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/983853501
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 11:04:11 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4643>
+Thread      : 7a8d2b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/642044640
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 11:04:11 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4643>
+Thread      : 7a8d2b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/653091017
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:19:14 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/865315701
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:19:14 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/865543952
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:55:40 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/646709266
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:55:40 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/646897553
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:55:59 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/796861048
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 13:55:59 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4972>
+Thread      : 7a9a8b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/797047315
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:03:31 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5168>
+Thread      : 7a4dbb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/497642176
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:03:31 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5168>
+Thread      : 7a4dbb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/497972664
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:33:40 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5346>
+Thread      : 7a5f2b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/388530903
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:33:40 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5346>
+Thread      : 7a5f2b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/388839410
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:39:00 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5511>
+Thread      : 7a843b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/509336005
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:39:00 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5511>
+Thread      : 7a843b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/509877021
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:43:01 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5661>
+Thread      : 7a5d5b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/143725739
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:43:01 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5661>
+Thread      : 7a5d5b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/143906216
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:50:21 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5724>
+Thread      : 7a2dcb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/708112575
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:50:21 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5724>
+Thread      : 7a2dcb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/708315308
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:55:18 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5930>
+Thread      : 7a7b2b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/626915648
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 16:55:18 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5930>
+Thread      : 7a7b2b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/627135284
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:01:21 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5994>
+Thread      : 7a3b3b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/214479424
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:01:21 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5994>
+Thread      : 7a3b3b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/214757511
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:09:50 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6151>
+Thread      : 7a5b1b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/889281807
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:09:50 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6151>
+Thread      : 7a5b1b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/889481345
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:17:09 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6308>
+Thread      : 7a4d8b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/217442714
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:17:09 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6308>
+Thread      : 7a4d8b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/217639557
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:24:38 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6456>
+Thread      : 7a245b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/303389040
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:24:38 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6456>
+Thread      : 7a245b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/303583146
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:32:35 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6519>
+Thread      : 7a7bab70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/771629962
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:32:35 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6519>
+Thread      : 7a7bab70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/771834095
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:44:49 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6588>
+Thread      : 7a161b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/440350775
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 17:44:49 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6588>
+Thread      : 7a161b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/440561821
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 18:03:21 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6711>
+Thread      : 7a763b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/38651488
+========================================================================================
+Report      : ERROR
+Date        : Fri May 21 18:03:21 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6711>
+Thread      : 7a763b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/38832074
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 08:32:34 2010
+Description : os_sharedMemoryAttach failed
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      : main thread 7b319b70
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/721/0/938588815
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 08:32:35 2010
+Description : c_open failed
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      : main thread 7b319b70
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/735/0/2545599
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 08:32:35 2010
+Description : Failed to open: TisKmf
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      : main thread 7b319b70
+Internals   : V5.3.0p3/u_userKernelOpen/u_user.c/501/0/2722863
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 08:32:35 2010
+Description : Failure to open the kernel
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3125>
+Thread      : main thread 7b319b70
+Internals   : V5.3.0p3/u_participantNew/u_participant.c/162/0/2842631
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:03:18 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3798>
+Thread      : 7a8adb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/580343199
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:03:18 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3798>
+Thread      : 7a8adb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/580802799
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:47:03 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4109>
+Thread      : 7a57fb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/485951538
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:47:03 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4109>
+Thread      : 7a57fb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/486438119
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:56:47 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4215>
+Thread      : 7a95fb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/355588669
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 09:56:47 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4215>
+Thread      : 7a95fb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/356063769
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:06:16 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4279>
+Thread      : 7a64fb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/403440201
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:06:16 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4279>
+Thread      : 7a64fb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/403564726
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:11:33 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4337>
+Thread      : 7a4ddb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/678625373
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:11:33 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4337>
+Thread      : 7a4ddb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/678962890
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:28:18 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4404>
+Thread      : 7a407b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/444323828
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:28:18 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4404>
+Thread      : 7a407b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/444494974
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:47:19 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4480>
+Thread      : 7a530b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/69320933
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 10:47:19 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4480>
+Thread      : 7a530b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/69881775
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 11:05:22 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4583>
+Thread      : 7a646b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/157078159
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 11:05:22 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4583>
+Thread      : 7a646b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/157450565
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 13:25:56 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3591>
+Thread      : 7a956b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/250577349
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 13:25:56 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3591>
+Thread      : 7a956b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/276404498
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 13:42:19 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3938>
+Thread      : 7a9ccb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/925964725
+========================================================================================
+Report      : ERROR
+Date        : Sat May 22 13:42:19 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3938>
+Thread      : 7a9ccb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/926538195
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:15:40 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/232553995
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:15:40 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/250639188
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:34:36 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/737430142
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:34:36 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/737774299
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:34:42 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/641556356
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:34:42 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3615>
+Thread      : 7a399b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/642067225
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:45:36 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3965>
+Thread      : 7a531b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/696048584
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 09:45:36 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3965>
+Thread      : 7a531b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/696233996
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 10:33:54 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4487>
+Thread      : 7a623b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/844884311
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 10:33:54 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4487>
+Thread      : 7a623b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/845425137
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 11:23:02 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4909>
+Thread      : 7a711b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/522175349
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 11:23:02 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <4909>
+Thread      : 7a711b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/522621401
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:15:45 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5963>
+Thread      : 7a8b0b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/747872522
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:15:45 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <5963>
+Thread      : 7a8b0b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/748419503
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:18:00 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6078>
+Thread      : 7a3e5b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/797069706
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:18:00 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6078>
+Thread      : 7a3e5b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/797653591
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:19:56 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6240>
+Thread      : 7a608b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/250501693
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:19:56 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6240>
+Thread      : 7a608b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/250693812
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:22:22 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6312>
+Thread      : 7a40db70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/592785568
+========================================================================================
+Report      : ERROR
+Date        : Sun May 23 13:22:22 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <6312>
+Thread      : 7a40db70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/593002210
+========================================================================================
+Report      : ERROR
+Date        : Sat May 29 15:17:23 2010
+Description : Object array bounds violation.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3384>
+Thread      : 7a7a9b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/389805967
+========================================================================================
+Report      : ERROR
+Date        : Sat May 29 15:17:23 2010
+Description : Unable to copy data, because it is invalid.
+Node        : elhan
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <3384>
+Thread      : 7a7a9b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/390011458
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:50:42 2011
+Description : Object array bounds violation.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11119>
+Thread      : 8f6cfb70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/983652976
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:50:42 2011
+Description : Unable to copy data, because it is invalid.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11119>
+Thread      : 8f6cfb70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/995887973
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:54:48 2011
+Description : Object array bounds violation.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11226>
+Thread      : 8f92db70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/872109494
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:54:48 2011
+Description : Unable to copy data, because it is invalid.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11226>
+Thread      : 8f92db70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/872304497
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:55:17 2011
+Description : Object array bounds violation.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11226>
+Thread      : 8f92db70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/944810206
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 11:55:17 2011
+Description : Unable to copy data, because it is invalid.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11226>
+Thread      : 8f92db70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/944996549
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 12:27:04 2011
+Description : Object array bounds violation.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11646>
+Thread      : 8fe5db70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/710383686
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 12:27:04 2011
+Description : Unable to copy data, because it is invalid.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <11646>
+Thread      : 8fe5db70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/710549554
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 13:08:46 2011
+Description : Object array bounds violation.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <12525>
+Thread      : 8fb31b70
+Internals   : V5.3.0p3/dcpssaj/saj_copyIn.c/2818/0/245174578
+========================================================================================
+Report      : ERROR
+Date        : Fri Jul 15 13:08:46 2011
+Description : Unable to copy data, because it is invalid.
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <12525>
+Thread      : 8fb31b70
+Internals   : V5.3.0p3/u_writeWithHandleAction/u_writer.c/341/0/245326292
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 23 08:21:20 2011
+Description : os_sharedMemoryAttach failed
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      : main thread 8fef9b70
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/721/0/174203425
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 23 08:21:20 2011
+Description : c_open failed
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      : main thread 8fef9b70
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/735/0/249742130
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 23 08:21:20 2011
+Description : Failed to open: TisKmf
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      : main thread 8fef9b70
+Internals   : V5.3.0p3/u_userKernelOpen/u_user.c/501/0/250055392
+========================================================================================
+Report      : ERROR
+Date        : Sat Jul 23 08:21:20 2011
+Description : Failure to open the kernel
+Node        : tiswcc2-M11AD
+Process     : /usr/lib/jvm/java-6-sun-1.6.0.26/jre/bin/java <2850>
+Thread      : main thread 8fef9b70
+Internals   : V5.3.0p3/u_participantNew/u_participant.c/162/0/250307756
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct  1 17:37:22 2015
+Description : os_sharedMemoryAttach failed
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      : main thread 69471b40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/721/0/550749646
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct  1 17:37:22 2015
+Description : c_open failed
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      : main thread 69471b40
+Internals   : V5.3.0p3/u_kernelOpen/u_kernel.c/735/0/561191010
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct  1 17:37:22 2015
+Description : Failed to open: TisKmf
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      : main thread 69471b40
+Internals   : V5.3.0p3/u_userKernelOpen/u_user.c/501/0/561309551
+========================================================================================
+Report      : ERROR
+Date        : Thu Oct  1 17:37:22 2015
+Description : Failure to open the kernel
+Node        : datalink
+Process     : /usr/lib/jvm/jdk1.6.0_45/bin/java <11268>
+Thread      : main thread 69471b40
+Internals   : V5.3.0p3/u_participantNew/u_participant.c/162/0/561371725
