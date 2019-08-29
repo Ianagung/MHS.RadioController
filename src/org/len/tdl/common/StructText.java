@@ -50,7 +50,8 @@ public class StructText {
         
         if ( (crc[0] == data[data_length-2]) && (crc[1] == data[data_length-1])) {
             valid = true;
-            textNumber = (int) data[0] << 8 + data[1];
+//            textNumber = (int) data[0] << 8 + data[1];
+            textNumber = (int) data[0] * 256 + data[1];
             lengthText = data[2] * 256 + data[3];      
             stext = new String(data,4, getLengthText());            
         } 
