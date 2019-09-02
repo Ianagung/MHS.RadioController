@@ -51,7 +51,7 @@ import org.len.tdl.tools_ryt.WTConnection2;
  *
  * @author riyanto
  * @author Faturrahman
- * @author Ian Agung
+ * @author Ian Agung Prakoso
  */
 /**
  *
